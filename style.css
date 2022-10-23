@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: white;
+    font-family: "Poppins" ;
+    color : #2a2d48;
+    
+
+}
+
+.imgPostBy{
+    position: relative;
+    top :15px;
+}
+
+
+#site-main{
+    display: block;
+    margin: 60px;
+}
+
+
+header{
+    display : block;
+    background-color: white;
+    padding: 30px 100px;
+    margin : 0px 0px ;
+}
+#site-header {
+
+    padding: 18px 42px;
+    box-shadow: 0px 2px 4px -1px rgb(0 0 0 / 12%), 0px 4px 5px 0px rgb(0 0 0 / 12%), 0px 1px 10px 0px rgb(0 0 0 / 12%);
+}
+nav {
+    display:inline-block
+}
+#site-title{
+    display: inline-block;
+
+}
+a.nav-link{
+    margin: 16px;
+    margin: 16px;
+    text-decoration: none;
+    color: #2c2b47;
+}
+    
+
+
+footer{
+    color:white;
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    display: block;
+    
+}
+
+a.linkto{
+    background-color: #6d6d7a;
+    color: white;
+    padding: 12px;
+    margin: 24px 0;
+    border-radius: 6px;
+}
+
+.description{
+    background-color: #fbfbfb;
+    padding: 12px 30px;
+    margin: 24px 0;
+    border-radius: 12px;
+    border: 1px solid #e5e5e5;
+
+}
+
+section {
+    display: block;
+}
