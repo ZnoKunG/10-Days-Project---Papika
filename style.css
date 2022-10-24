@@ -61,7 +61,7 @@ footer{
     
 }
 
-a.linkto{
+a.toFile{
     background-color: #6d6d7a;
     color: white;
     padding: 12px;
@@ -80,4 +80,16 @@ a.linkto{
 
 section {
     display: block;
+}
+
+.AuthorImg{
+    border-radius: 12px 12px 12px 12px;
+    border-color: #2a2d48;
+    border-width: 900px;
+    width:70px ;
+    height: 70px;
+    -webkit-border-radius: 12px 12px 12px 12px;
+    -moz-border-radius: 12px 12px 12px 12px;
+    -ms-border-radius: 12px 12px 12px 12px;
+    -o-border-radius: 12px 12px 12px 12px;
 }
